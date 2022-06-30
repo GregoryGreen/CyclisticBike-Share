@@ -19,3 +19,13 @@ But first, Cyclistic executives must approve your recommendations, so they must 
 Riders who pay for an annual membership are more profitable than casual riders, according to data research.
 The marketing department is considering developing a campaign to entice casual passengers to become members.
 The team wants to look at the Cyclistic historical bike trip data to see whether there are any patterns in how casual and member users use bikes.
+
+
+**Business Objective**
+
+Through a targeted marketing approach, to increase revenue by converting casual riders into annual members.
+
+**Business Task**
+
+The junior analyst has been tasked with answering the following question:
+“How do annual members and casual riders use Cyclistic bikes differently?”
