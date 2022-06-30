@@ -34,4 +34,7 @@ The junior analyst has been tasked with answering the following question:
 
 User data from the past 12 months, July 2021 - June 2022 has been made available. Each data set is in csv format and details every ride logged by Cyclistic customers. This data has been made publicly available via license by Motivate International Inc. and the city of Chicago available here. All user’s personal data has been scrubbed for privacy.
 
+The data used in this project can be found here:
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
 
