@@ -29,3 +29,9 @@ Through a targeted marketing approach, to increase revenue by converting casual 
 
 The junior analyst has been tasked with answering the following question:
 “How do annual members and casual riders use Cyclistic bikes differently?”
+
+**Data sources**
+
+User data from the past 12 months, July 2021 - June 2022 has been made available. Each data set is in csv format and details every ride logged by Cyclistic customers. This data has been made publicly available via license by Motivate International Inc. and the city of Chicago available here. All user’s personal data has been scrubbed for privacy.
+
+
