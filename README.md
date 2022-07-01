@@ -23,7 +23,7 @@ The team wants to look at the Cyclistic historical bike trip data to see whether
 
 **Business Objective**
 
-Through a targeted marketing approach, to increase revenue by converting casual riders into annual members.
+Through a targeted marketing approach, to improve revenue by converting casual riders into annual members.
 
 **Business Task**
 
@@ -37,4 +37,12 @@ User data from the past 12 months, July 2021 - June 2022 has been made available
 The data used in this project can be found here:
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
+
+**What tools I choosed and Why**
+
+I used SQL to combine all 12 datasets and removed some columns that won't be needed. I used RStudio Desktop to analyse, clean and perform summarisations for this project was too large for RStudio Cloud. Tableau was the perfect tool to create several meaningful visualizations.
+
+Identified the following abnormalities:
+
+Missing values in the start and end stations variables
 
