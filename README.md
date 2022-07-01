@@ -48,6 +48,7 @@ Missing values in the start and end stations variables
 
 
 **what does the data tell us?**
+
 Casual riders tended to ride more so in the warmer months of Chicago as expected, namely June- August. Their participation exceeded that of the long term members.
 
 The days of the week also further shows that causal riders prefer to use the service during the weekends as their usage peaked then. The long term members conversly utilised the service more-so throughout the typical work week i.e (Monday- friday).
