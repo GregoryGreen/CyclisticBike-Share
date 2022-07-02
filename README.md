@@ -7,11 +7,6 @@ In 2016, Cyclistic launched a successful bike-share offering. Since then, the pr
 Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
 
 
-
-
-
-
-
 **Scenario**
 
 “You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
@@ -52,3 +47,15 @@ Missing values in the start and end stations variables
 Casual riders tended to ride more so in the warmer months of Chicago as expected, namely June- August. Their participation exceeded that of the long term members.
 
 The days of the week also further shows that causal riders prefer to use the service during the weekends as their usage peaked then. The long term members conversly utilised the service more-so throughout the typical work week i.e (Monday- friday).
+
+**Suggestions**
+
+Introducing plans could attract casuals for the summer months. This marketing should be done during the winter months in preperation.
+
+Membership rates during the warmer months as well as for those who only ride on the weekends would help in targeting the casual riders more specifically.
+
+**Points that should be examined**
+
+Age and gender: This would add a dynamic to whether or not customers are being targeted across demograpic lines
+
+Pricing structure: The pricing not included in the  data would have give further insight to which plans are the most popular and by (how much) when comparing them. It would also be very effective to understanding the spending behaviour of casual user.
