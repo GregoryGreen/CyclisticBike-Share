@@ -1,4 +1,4 @@
-# CyclisticBike-Share
+# CASE STUDY: BIKE-SHARE
 
 **Background**
 
