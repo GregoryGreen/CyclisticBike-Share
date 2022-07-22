@@ -48,6 +48,10 @@ Casual riders tended to ride more so in the warmer months of Chicago as expected
 
 The days of the week also further shows that causal riders prefer to use the service during the weekends as their usage peaked then. The long term members conversly utilised the service more-so throughout the typical work week i.e (Monday- friday).
 
+
+![BikeShareRplot](https://user-images.githubusercontent.com/87345933/180338700-1b6030e9-bb63-4385-b299-d19ccf5180d9.jpeg)
+
+
 **Suggestions**
 
 Introducing plans could attract casuals for the summer months. This marketing should be done during the winter months in preperation.
