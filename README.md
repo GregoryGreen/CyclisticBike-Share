@@ -51,6 +51,8 @@ The days of the week also further shows that causal riders prefer to use the ser
 
 ![BikeShareRplot](https://user-images.githubusercontent.com/87345933/180338700-1b6030e9-bb63-4385-b299-d19ccf5180d9.jpeg)
 
+file:///Users/gregorygreen/Untitled.html
+
 
 **Suggestions**
 
