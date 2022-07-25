@@ -49,9 +49,9 @@ Casual riders tended to ride more so in the warmer months of Chicago as expected
 The days of the week also further shows that causal riders prefer to use the service during the weekends as their usage peaked then. The long term members conversly utilised the service more-so throughout the typical work week i.e (Monday- friday). The plot also shows that the top starting and destination stations for casual cyclists cluster around tourist locations within about 1 km of the lakefront. Top stations for member riders are more dispersed and reflect office locations.
 
 
-![BikeShareRplot](https://user-images.githubusercontent.com/87345933/180338700-1b6030e9-bb63-4385-b299-d19ccf5180d9.jpeg)
+![BikeShareRplot](https://file:///Users/gregorygreen/Untitled.html)
 
-file:///Users/gregorygreen/Untitled.html
+
 
 
 **Suggestions**
